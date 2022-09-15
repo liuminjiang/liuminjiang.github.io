@@ -6,8 +6,8 @@
     <link>https://newzone.top/</link>
     <description>开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 15 Sep 2022 10:03:32 GMT</pubDate>
-    <lastBuildDate>Thu, 15 Sep 2022 10:03:32 GMT</lastBuildDate>
+    <pubDate>Thu, 15 Sep 2022 10:10:56 GMT</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2022 10:10:56 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
@@ -16,10 +16,10 @@
     <category>服务器</category>
     <category>自动化</category>
     <item>
-      <title>我的第一篇博客</title>
+      <title>hello world</title>
       <link>https://newzone.top/_posts/2022-09-15-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html</link>
       <guid>https://newzone.top/_posts/2022-09-15-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html</guid>
-      <source url="https://newzone.top/rss.xml">我的第一篇博客</source>
+      <source url="https://newzone.top/rss.xml">hello world</source>
       <category>工具</category>
       <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="我的第一篇博客" tabindex="-1"> 我的第一篇博客</h1>
