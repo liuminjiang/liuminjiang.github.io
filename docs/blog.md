@@ -4,11 +4,11 @@ home: true
 layout: Blog
 icon: home
 bgImage: http://tc.seoipo.com/home-bg-1.jpg
-title: 互联网小白
+title: 随风而动的笔
 #heroImage: /logo.svg
-heroText: 互联网小白
+heroText: 随风而动的笔
 heroFullScreen: false
-tagline: 盛年不重来，一日难再晨
+tagline: 人生的意义就是尽情体验、用心感受
 #projects:
 #  - icon: project
 #    name: 项目名称
