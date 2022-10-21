@@ -13,9 +13,9 @@ export default defineUserConfig({
   //网站语言，默认为中文
   lang: "zh-CN",
   //网站标题
-  title: "LearnData-开源笔记",
+  title: "黑珍珠号船舱",
   //网站描述
-  description: "开源工具、效率方法、心理学探索的自我提升笔记，记录并输出一切能让自己提升的知识。",
+  description: "记录认识自己、认识世界的过程。",
 
   //网站路径，默认为 /，如果非主域名，需改为
   base: "/",

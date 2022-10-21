@@ -4,11 +4,11 @@ home: true
 layout: Blog
 icon: home
 bgImage: http://tc.seoipo.com/home-bg-1.jpg
-title: 随风而动的笔
+title: 跳跃花园
 #heroImage: /logo.svg
-heroText: 随风而动的笔
+heroText: 跳跃花园
 heroFullScreen: false
-tagline: 人生的意义就是尽情体验、用心感受
+tagline: experience more
 #projects:
 #  - icon: project
 #    name: 项目名称
