@@ -6,11 +6,11 @@ import sidebar from "./sidebar";
 export default hopeTheme({
   //主题选项
   //https://vuepress-theme-hope.github.io/v2/zh/config/theme/layout.html
-  hostname: "https://newzone.top",
+  hostname: "https://liuminjiang.github.io/",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "MJ",
+    url: "https://liuminjiang.github.io/",
   },
 
   iconAssets: "iconfont",
@@ -70,9 +70,9 @@ export default hopeTheme({
   //https://vuepress-theme-hope.github.io/v2/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "Category", "Tag", "ReadingTime", "PageView"],
-    name: "清顺",
-    avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    name: "MJ",
+    avatar: "/avatar_self.jpg",
+    description: "喜欢新的工具、新的方法，注重过程优化",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
@@ -99,20 +99,10 @@ export default hopeTheme({
     comment: {
       //部署 Waline：https://waline.js.org/guide/get-started.html
       provider: "Waline",
-      serverURL: "https://waline.newzone.top",
+      serverURL: "https://mj-repository-eakkca9pq-liuminjiang.vercel.app/",
       pageview: true,
       //Waline 等级标签
-      walineLocales: {
-        '/': {
-          admin: '盛年不重来，一日难再晨',
-          level0: '锻体',
-          level1: '炼气',
-          level2: '筑基',
-          level3: '金丹',
-          level4: '元婴',
-          level5: '化神',
-        },
-      },
+      
       //Giscus 备用配置
       //provider: "Giscus",
       //repo: "rockbenben/LearnData",

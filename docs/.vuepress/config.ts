@@ -44,7 +44,7 @@ export default defineUserConfig({
     }),
     //rss 订阅描述
     feedPlugin({
-      hostname: "https://newzone.top",
+      hostname: "https://liuminjiang.github.io/",
       rss: true,
       count: 10,
     }),
