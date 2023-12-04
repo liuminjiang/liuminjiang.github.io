@@ -6,15 +6,57 @@
     <link>https://liuminjiang.github.io/</link>
     <description>记录认识自己、认识世界的过程。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 18 Jan 2023 09:20:07 GMT</pubDate>
-    <lastBuildDate>Wed, 18 Jan 2023 09:20:07 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2023 04:38:49 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2023 04:38:49 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
     <category>系统</category>
     <category>网络</category>
     <category>服务器</category>
-    <category>自动化</category>
+    <item>
+      <title>我的电脑</title>
+      <link>https://liuminjiang.github.io/_posts/2023-12-04-%E6%88%91%E7%9A%84%E7%94%B5%E8%84%91.html</link>
+      <guid>https://liuminjiang.github.io/_posts/2023-12-04-%E6%88%91%E7%9A%84%E7%94%B5%E8%84%91.html</guid>
+      <source url="https://liuminjiang.github.io/rss.xml">我的电脑</source>
+      <category>工具</category>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>[TOC]</p>
+<h1 id="必备软件" tabindex="-1"> 必备软件</h1>
+<h2 id="浏览器" tabindex="-1"> 浏览器</h2>
+<h3 id="edge" tabindex="-1"> edge</h3>
+<p>edge是微软自带的浏览器，体积小，打开速度快，可以用来作为PDF的默认打开软件，这样也可以和真正的网页做一个区分。</p>
+<h3 id="chrome" tabindex="-1"> Chrome</h3>
+<p>Chrome浏览器需要安装各种插件和脚本</p>
+<h4 id="油猴" tabindex="-1"> 油猴</h4>
+<ol>
+<li>AC-baidu-重定向优化百度搜狗谷歌必应搜索_favicon_双列</li>
+<li>AC-baidu： 优化百度、搜狗、谷歌搜索结果之关键词自动高亮</li>
+<li>新标签页打开链接</li>
+<li>B站哔哩哔哩使用增强，全网VIP视频免费破解去广告，全网音乐直接下载，知乎使用增强，短视频无水印下载，油管、Facebook等国外视频解析下载等</li>
+</ol>
+<h4 id="划词翻译" tabindex="-1"> 划词翻译</h4>
+<h4 id="toby" tabindex="-1"> Toby</h4>
+<h4 id="notion-web-clipper" tabindex="-1"> Notion Web Clipper</h4>
+<h4 id="link-to-text-fragment" tabindex="-1"> Link to Text Fragment</h4>
+<h4 id="axure-rp-extension-for-chrome" tabindex="-1"> Axure RP Extension for Chrome</h4>
+<h2 id="git" tabindex="-1"> git</h2>
+<h2 id="github-desktop" tabindex="-1"> github desktop</h2>
+<h2 id="snipaste" tabindex="-1"> snipaste</h2>
+<h2 id="notion" tabindex="-1"> notion</h2>
+<h2 id="typora" tabindex="-1"> typora</h2>
+<h2 id="quicker" tabindex="-1"> Quicker</h2>
+<h2 id="draw-io" tabindex="-1"> Draw.io</h2>
+<h2 id="capture" tabindex="-1"> Capture</h2>
+<h2 id="notepad" tabindex="-1"> notepad++</h2>
+<p>hosts放在里面不关闭</p>
+<h2 id="qttabbar" tabindex="-1"> QTTabbar</h2>
+<h2 id="ms-office" tabindex="-1"> MS office</h2>
+<h2 id="所有文件夹纳入索引" tabindex="-1"> 所有文件夹纳入索引</h2>
+<h2 id="向日葵" tabindex="-1"> 向日葵</h2>
+<h2 id="winzip" tabindex="-1"> winzip</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>hello world</title>
       <link>https://liuminjiang.github.io/_posts/2022-09-15-%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html</link>
@@ -279,41 +321,6 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
 <p>第三次测试使用阿里云 DNS，分配杭州电信，网站正常</p>
 <p>后面两次虽然都能打开网站，但没有一个分配在上海电信，这种加速又能快多少呢？</p>
 <p>在网站<strong>配置足够、流量不大（日均访客 1000 以内）</strong> 时，不建议使用全站 CDN，这只会拖累访问体验。小网站只适合将图片部署在 CDN。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>雇个机器人帮你干活</title>
-      <link>https://liuminjiang.github.io/_posts/2018-01-31-hire_a_robot.html</link>
-      <guid>https://liuminjiang.github.io/_posts/2018-01-31-hire_a_robot.html</guid>
-      <source url="https://liuminjiang.github.io/rss.xml">雇个机器人帮你干活</source>
-      <category>自动化</category>
-      <pubDate>Wed, 31 Jan 2018 22:51:00 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>机器人会取代你工作！
-计算云会取代你工作！
-AI 会取代你的工作！</p>
-</blockquote>
-<p>我相信科技终究有一天会消灭所有工作，但我们这代人的无奈就是很难等到这一天。</p>
-<p>作为懒人、宅男，等不及了怎么办？</p>
-<p>既然还没被取代，那就<strong>雇个机器人帮你干活</strong>！</p>
-<p>我每天第一件事是去各个网站看热门新闻、行业资料。以前是用 RSS，但 RSS 被视为落后，越来越多的网站不再提供 RSS 源。离开 RSS，我就一直没找到更合适的方法去将内容聚合起来，不得不在一个个网站间疲于奔命，逐渐不再看内容。</p>
-<blockquote>
-<p>RSS(Really Simple Syndication) 是一种描述和同步网站内容的格式，是使用最广泛的 XML 应用。简易信息聚合（也叫聚合内容）是一种 RSS 基于 XML 标准，在互联网上被广泛采用的内容包装和投递协议。</p>
-</blockquote>
-<ul>
-<li><input type="checkbox" id="task-item-0" disabled="disabled"><label for="task-item-0"> 增加 <code>Alfred</code> 搜索</label></li>
-</ul>
-<p><strong>直到遇到了我的第一个机器人雇员 <a href="https://github.com/huginn/huginn" target="_blank" rel="noopener noreferrer">Huginn</a></strong></p>
-<blockquote>
-<p>Huginn 是一个可以创建为你在线执行自动化任务的系统。Huginn 可以读取网页，监测事件并且执行符合你需求的动作。Huginn 通过 agents 创建并执行任务（事件流）。你可以将它看作是一个运行在你自己服务器上的 IFTTT 或 Zapier。</p>
-</blockquote>
-<p>Huginn 帮我将所有信息聚合成 RSS，24 小时帮我获取我要的内容。</p>
-<ul>
-<li><a href="http://news.163.com/rank" target="_blank" rel="noopener noreferrer">网易热门新闻</a>：抓取网易顶贴最多的 100 条新闻</li>
-<li><a href="http://top.baidu.com/buzz?b=1" target="_blank" rel="noopener noreferrer">百度实时热点</a>：实时更新每天的百度热点</li>
-<li><a href="https://www.guokr.com/" target="_blank" rel="noopener noreferrer">果壳网</a>：果壳首页推荐，官方更新速度较慢，刚好可以了解些奇思妙想</li>
-<li>工作类：梅花、SocialBeta、数英网、艾瑞网</li>
-</ul>
 ]]></content:encoded>
     </item>
   </channel>
