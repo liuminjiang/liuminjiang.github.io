@@ -6,8 +6,8 @@
     <link>https://liuminjiang.github.io/</link>
     <description>记录认识自己、认识世界的过程。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 Dec 2023 15:17:56 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Dec 2023 15:17:56 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Dec 2023 16:25:34 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Dec 2023 16:25:34 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工作方法</category>
@@ -60,7 +60,7 @@
     <span>}</span>
   <span>]</span>
 <span>}</span><span>;</span>
-</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
+</code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div><ECharts id="echarts-382ee14e" config="%7B%0A%20%20%22xAxis%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22category%22%2C%0A%20%20%20%20%22data%22%3A%20%5B%22Mon%22%2C%20%22Tue%22%2C%20%22Wed%22%2C%20%22Thu%22%2C%20%22Fri%22%2C%20%22Sat%22%2C%20%22Sun%22%5D%0A%20%20%7D%2C%0A%20%20%22yAxis%22%3A%20%7B%0A%20%20%20%20%22type%22%3A%20%22value%22%0A%20%20%7D%2C%0A%20%20%22series%22%3A%20%5B%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%22data%22%3A%20%5B150%2C%20230%2C%20224%2C%20218%2C%20135%2C%20147%2C%20260%5D%2C%0A%20%20%20%20%20%20%22type%22%3A%20%22line%22%0A%20%20%20%20%7D%0A%20%20%5D%0A%7D%0A" title="%E6%A0%87%E9%A2%98" type="json"></ECharts>]]></content:encoded>
     </item>
     <item>
       <title>我的电脑</title>
