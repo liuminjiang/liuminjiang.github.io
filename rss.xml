@@ -6,8 +6,8 @@
     <link>https://liuminjiang.github.io/</link>
     <description>记录认识自己、认识世界的过程。</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 22 Dec 2023 14:52:31 GMT</pubDate>
-    <lastBuildDate>Fri, 22 Dec 2023 14:52:31 GMT</lastBuildDate>
+    <pubDate>Fri, 22 Dec 2023 14:57:09 GMT</pubDate>
+    <lastBuildDate>Fri, 22 Dec 2023 14:57:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工作方法</category>
@@ -39,27 +39,27 @@
 <p>如果时间维度==时间粒度，说明时间维度坐标轴可以压缩到时间粒度的长度，所以时间维度轴上就只有一维的点了，指标变成一条平行于空间维度的直线。</p>
 <p>如果空间维度==空间粒度，说明空间维度坐标轴可以压缩到空间粒度的长度，所以空间维度轴上就只有一维的点了，指标变成一条平行于时间维度的直线。</p>
 <p>当</p>
-<div><pre><code>option <span>=</span> <span>{</span>
-  <span>xAxis</span><span>:</span> <span>{</span>
-    <span>name</span><span>:</span><span>'时间维度'</span><span>,</span>
-    <span>type</span><span>:</span> <span>'category'</span><span>,</span>
-    <span>data</span><span>:</span><span>[</span><span>'瞬时'</span><span>,</span><span>'5分钟'</span><span>,</span><span>'15分钟'</span><span>,</span><span>'30分钟'</span><span>,</span><span>'1小时'</span><span>,</span><span>'日'</span><span>,</span><span>'月'</span><span>,</span><span>'年'</span><span>,</span><span>'有史以来'</span><span>]</span>
+<div><pre><code><span>{</span>
+  xAxis<span>:</span> <span>{</span>
+    name<span>:</span>'时间维度'<span>,</span>
+    type<span>:</span> 'category'<span>,</span>
+    data<span>:</span><span>[</span>'瞬时'<span>,</span>'<span>5</span>分钟'<span>,</span>'<span>15</span>分钟'<span>,</span>'<span>30</span>分钟'<span>,</span>'<span>1</span>小时'<span>,</span>'日'<span>,</span>'月'<span>,</span>'年'<span>,</span>'有史以来'<span>]</span>
     
   <span>}</span><span>,</span>
-  <span>yAxis</span><span>:</span> <span>{</span>
-    <span>type</span><span>:</span> <span>'category'</span><span>,</span>
-    <span>name</span><span>:</span><span>'空间维度'</span><span>,</span>
-    <span>data</span><span>:</span><span>[</span><span>'车站'</span><span>,</span><span>'断面'</span><span>,</span><span>'OD组合'</span><span>,</span><span>'线路'</span><span>,</span><span>'线网'</span><span>]</span>
+  yAxis<span>:</span> <span>{</span>
+    type<span>:</span> 'category'<span>,</span>
+    name<span>:</span>'空间维度'<span>,</span>
+    data<span>:</span><span>[</span>'车站'<span>,</span>'断面'<span>,</span>'OD组合'<span>,</span>'线路'<span>,</span>'线网'<span>]</span>
   <span>}</span><span>,</span>
-  <span>series</span><span>:</span> <span>[</span>
+  series<span>:</span> <span>[</span>
     <span>{</span>
-      <span>name</span><span>:</span><span>'zhibiao'</span><span>,</span>
-      <span>data</span><span>:</span> <span>[</span><span>(</span><span>1</span><span>,</span><span>1</span><span>)</span><span>,</span><span>(</span><span>2</span><span>,</span><span>1</span><span>)</span><span>,</span><span>(</span><span>3</span><span>,</span><span>1</span><span>)</span><span>,</span><span>(</span><span>4</span><span>,</span><span>1</span><span>)</span><span>,</span><span>(</span><span>5</span><span>,</span><span>1</span><span>)</span><span>,</span><span>(</span><span>2</span><span>,</span><span>1</span><span>)</span><span>,</span><span>(</span><span>2</span><span>,</span><span>1</span><span>)</span><span>,</span><span>(</span><span>2</span><span>,</span><span>1</span><span>)</span><span>,</span><span>(</span><span>2</span><span>,</span><span>1</span><span>)</span><span>]</span><span>,</span>
-      <span>type</span><span>:</span> <span>'line'</span><span>,</span>
-      <span>smooth</span><span>:</span> <span>true</span>
+      name<span>:</span>'zhibiao'<span>,</span>
+      data<span>:</span> <span>[</span>(<span>1</span><span>,</span><span>1</span>)<span>,</span>(<span>2</span><span>,</span><span>1</span>)<span>,</span>(<span>3</span><span>,</span><span>1</span>)<span>,</span>(<span>4</span><span>,</span><span>1</span>)<span>,</span>(<span>5</span><span>,</span><span>1</span>)<span>,</span>(<span>2</span><span>,</span><span>1</span>)<span>,</span>(<span>2</span><span>,</span><span>1</span>)<span>,</span>(<span>2</span><span>,</span><span>1</span>)<span>,</span>(<span>2</span><span>,</span><span>1</span>)<span>]</span><span>,</span>
+      type<span>:</span> 'line'<span>,</span>
+      smooth<span>:</span> <span>true</span>
     <span>}</span>
   <span>]</span>
-<span>}</span><span>;</span>
+<span>}</span>;
 </code></pre><div aria-hidden="true"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div></div>]]></content:encoded>
     </item>
     <item>
