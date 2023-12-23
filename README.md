@@ -170,7 +170,7 @@ VuePress 默认使用 Vite，打包时会引入时间戳和 hash 对文件重命
 
 如果不想每次架构都重命名文件，可以复制「[nohashname](https://github.com/rockbenben/LearnData/tree/nohashname)」branch。我把 nohashname 分支的打包工具换成了 Webpack，并用 chainWebpack 设置文件命名规则，避免文件非必要重命名。
 
-### 本地运行 LearnData
+### 本地运行 LearnData——这个我已经试过了，是可以的
 
 1. 安装环境 npm 和 pnpm，方法查看 [环境部署教程](https://newzone.top/deploy/VPS.html#环境部署)。
 2. 下载 LearnData 项目到本地，在目录下运行终端，输入命令 `pnpm add vuepress@2.0.0-beta.49 @vuepress/client@2.0.0-beta.49 vuepress-theme-hope@2.0.0-beta.91 @vuepress/plugin-google-analytics@2.0.0-beta.49 @vuepress/plugin-search@2.0.0-beta.49 @vuepress/plugin-docsearch@2.0.0-beta.49`。
