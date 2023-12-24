@@ -6,8 +6,8 @@
     <link>https://liuminjiang.github.io/</link>
     <description>记录认识自己、认识世界的过程。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Dec 2023 14:23:47 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Dec 2023 14:23:47 GMT</lastBuildDate>
+    <pubDate>Sun, 24 Dec 2023 03:02:03 GMT</pubDate>
+    <lastBuildDate>Sun, 24 Dec 2023 03:02:03 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>生活记录</category>
@@ -28,10 +28,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>研发需求描述方法</title>
+      <title>文件处理SOP</title>
       <link>https://liuminjiang.github.io/_posts/2023-12-23-%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86SOP.html</link>
       <guid>https://liuminjiang.github.io/_posts/2023-12-23-%E6%96%87%E4%BB%B6%E5%A4%84%E7%90%86SOP.html</guid>
-      <source url="https://liuminjiang.github.io/rss.xml">研发需求描述方法</source>
+      <source url="https://liuminjiang.github.io/rss.xml">文件处理SOP</source>
       <category>工作方法</category>
       <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="文件处理sop" tabindex="-1"> 文件处理SOP</h1>
@@ -40,8 +40,15 @@
 <aside>
 💡 指那些不需要再次修改发送，只需要留存备查的资料。可能会有版本更新，但是更新人员为外部人员。
 </aside>
+<ul>
+<li>00-会议记录（每个会议一个文件夹，以日期+主题命名文件夹，重要的文件）
 <ol>
-<li>项目资料
+<li>会议录屏</li>
+<li>会议材料</li>
+<li>会议纪要</li>
+</ol>
+</li>
+<li>01-项目资料
 <ol>
 <li>点类表</li>
 <li>项目情况</li>
@@ -51,7 +58,7 @@
 <li>用户直接给<strong>涉及到项目情况</strong>的参考资料</li>
 </ol>
 </li>
-<li>接口
+<li>02-接口
 <ol>
 <li>按照接口分类</li>
 <li>各个接口的相关协议（行车信号图、信号点类表）</li>
@@ -59,29 +66,22 @@
 <li>与接口方进行的会议快捷方式</li>
 </ol>
 </li>
-<li>用户需求
+<li>03-用户需求
 <ol>
 <li>会议纪要快捷方式（回复的文件标注#20231217回复）</li>
 <li>沟通纪要快捷方式（及回复）</li>
 <li>用户根据软件提供的问题清单（以及回复的计划完成时间等等）</li>
 </ol>
 </li>
-<li>其他项目参考（如有）</li>
-<li>立项文件</li>
-<li>会议记录（每个会议一个文件夹，以日期+主题命名文件夹，重要的文件）
-<ol>
-<li>会议录屏</li>
-<li>会议材料</li>
-<li>会议纪要</li>
-</ol>
-</li>
-</ol>
+<li>04-其他项目参考（如有）</li>
+<li>05-立项文件</li>
+</ul>
 <h2 id="workplace" tabindex="-1"> workplace</h2>
 <aside>
 💡 指主要工作空间，这里的文件为产品经理主要的设计工作。有频繁的版本更新。
 </aside>
-<ol>
-<li>产品设计
+<ul>
+<li>10-产品设计
 <ol>
 <li>原型设计rp、html等</li>
 <li>需求分析相关excel、xmind、流程图等</li>
@@ -90,19 +90,19 @@
 <li>软件架构设计文件</li>
 </ol>
 </li>
-<li>测试
+<li>11-测试
 <ol>
 <li>项目上测试出来的bug</li>
 </ol>
 </li>
-<li>部署
+<li>12-部署
 <ol>
 <li>部署手册</li>
 <li>使用手册</li>
 <li>维护手册</li>
 </ol>
 </li>
-</ol>
+</ul>
 <h3 id="项目管理" tabindex="-1"> 项目管理</h3>
 <aside>
 💡 指所有临时文件、汇报文件、回复文件、进度文件，需要时常更新。每个事务建立一个独立文件夹，以备更新。
@@ -140,21 +140,24 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>研发需求描述方法</title>
+      <title>写日志SOP</title>
       <link>https://liuminjiang.github.io/_posts/2023-12-23-%E6%97%A5%E5%BF%97SOP.html</link>
       <guid>https://liuminjiang.github.io/_posts/2023-12-23-%E6%97%A5%E5%BF%97SOP.html</guid>
-      <source url="https://liuminjiang.github.io/rss.xml">研发需求描述方法</source>
+      <source url="https://liuminjiang.github.io/rss.xml">写日志SOP</source>
       <category>工作方法</category>
       <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="日志sop" tabindex="-1"> 日志SOP</h1>
+      <content:encoded><![CDATA[<h1 id="写日志sop" tabindex="-1"> 写日志SOP</h1>
+<p>放弃用手机吧，试了很多手机app，但是无奈人太懒，实在无法做到每天在手机上敲字，甚至连钉钉日志也必须在电脑上写才舒服，如果说文字记录对我是最能够梳理思路表达看法，那么电脑敲字排第二（因为现实原因，需要将笔记进行存储和查询，所以才迫不得已必须要在电脑上整理笔记，但是我实在做不到在手机上进行，所以，<strong>放弃使用各种手机app管理时间和计划吧</strong> （除非可以将手机和电脑同步起来，所以我计划用notion在电脑上做周计划月计划和年计划，指定年目标，只用手机去看，最多打个勾，标记一下是否已完成，然后看看收藏的内容即可，坚决不在手机上打多余的文字。</p>
+<p>番茄钟：先在本子（那个小厚本子）上进行记录，然后即抛，在信息泛滥的今天，我们没必要将自己每天都干了啥记下来吧？
+--如果直接在钉钉日志里面写具体干了什么呢？直接写大的任务，然后在后面写，或者在本子上写这个任务用了多长时间。--</p>
 <ol>
 <li>
-<p>番茄钟：大的任务做之前写在小本子上，每过半个小时正字画一笔。</p>
+<p>大的任务做之前写在小本子上，每过半个小时正字画一笔。</p>
 </li>
 <li>
-<p>若有小的任务打断，</p>
-<p>紧急：打断当前番茄钟，标记断点</p>
-<p>不紧急：等会再处理</p>
+<p>若有小的任务打断，
+紧急：打断当前番茄钟，标记断点，记录这个断点干了什么，如果是和人有关系，可以简单记一个人名，然后可以去钉钉里面通过具体的聊天记录来进行查询。
+不紧急：等会再处理</p>
 </li>
 <li>
 <p>每日17:15 开始处理日志</p>
@@ -162,10 +165,13 @@
 <p>单独进行的工作，禅道直接写日志</p>
 <p>识别文字，复制</p>
 <p>一份写入钉钉日志</p>
-<p>一份写入便签，简单归类（需求、设计、接口、其他……）</p>
+<p>一份写入便签，简单归类（需求、设计、接口、其他……）Maybe！可以直接按照<strong>项目研发</strong>和<strong>行业支持</strong>来进行分类！这样月报就有了！之后如果月报改了格式，那么日报就按照这种格式来进行，把日报的格式当成一种变量输出。</p>
 </li>
 <li>
-<p>每周五将便签中的内容写入看板，将禅道中的日志导出.xlsx，统计工时。</p>
+<p>每周五将便签中的内容写入看板，将禅道中的日志导出.xlsx，统计工时。行业研发：需求、设计，行业支持：接口、其他。</p>
+</li>
+<li>
+<p>总体原则：日常时间管理的时候，将任务名称直接写进日志，将日志中每天做的事情直接按照周总结的格式进行分类（需求、设计、接口、其他……），写月报的时候，将月报看板中需求、设计两部分当成是行业研发，将其他内容视为行业支持。</p>
 </li>
 </ol>
 ]]></content:encoded>
@@ -184,7 +190,7 @@
 如果空间维度</mark>空间粒度，说明空间维度坐标轴可以压缩到空间粒度的长度，所以空间维度轴上就只有一维的点了，指标变成一条平行于时间维度的直线。
 以上两种情况都能确定出一条一维的曲线
 当时间维度<mark>时间粒度且空间维度</mark>空间粒度的时候，就单一确定了一个0维的点，也就是说确定了唯一的一条指标。</p>
-<ECharts id="echarts-382ee147" config="const%20option%20%3D%20%7B%0A%20%20xAxis%3A%20%7B%0A%20%20%20%20name%3A'%E6%97%B6%E9%97%B4%E7%BB%B4%E5%BA%A6'%2C%0A%20%20%20%20type%3A%20'category'%2C%0A%20%20%20%20data%3A%5B'%E7%9E%AC%E6%97%B6'%2C'5%E5%88%86%E9%92%9F'%2C'15%E5%88%86%E9%92%9F'%2C'30%E5%88%86%E9%92%9F'%2C'1%E5%B0%8F%E6%97%B6'%2C'%E6%97%A5'%2C'%E6%9C%88'%2C'%E5%B9%B4'%2C'%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5'%5D%0A%20%20%20%20%20%20%0A%20%20%7D%2C%0A%20%20yAxis%3A%20%7B%0A%20%20%20%20type%3A'category'%2C%0A%20%20%20%20name%3A'%E7%A9%BA%E9%97%B4%E7%BB%B4%E5%BA%A6'%2C%0A%20%20%20%20data%3A%5B'%E8%BD%A6%E7%AB%99'%2C'%E6%96%AD%E9%9D%A2'%2C'OD%E7%BB%84%E5%90%88'%2C'%E7%BA%BF%E8%B7%AF'%2C'%E7%BA%BF%E7%BD%91'%5D%0A%20%20%7D%2C%0A%20%20series%3A%20%5B%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20name%3A'%E6%8C%87%E6%A0%87'%2C%0A%20%20%20%20%20%20data%3A%20%5B1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%5D%2C%0A%20%20%20%20%20%20type%3A%20%22line%22%2C%0A%20%20%20%20%20%20smooth%3A%20true%0A%20%20%20%20%7D%0A%20%20%5D%0A%7D%0A" title="%E6%8C%87%E6%A0%87%E8%8C%83%E5%9B%B4%E7%A4%BA%E6%84%8F" type="js"></ECharts>]]></content:encoded>
+<ECharts id="echarts-382ee147" config="const%20option%20%3D%20%7B%0A%20%20xAxis%3A%20%7B%0A%20%20%20%20name%3A'%E6%97%B6%E9%97%B4%E7%BB%B4%E5%BA%A6'%2C%0A%20%20%20%20type%3A%20'category'%2C%0A%20%20%20%20data%3A%5B'%E7%9E%AC%E6%97%B6'%2C'5%E5%88%86%E9%92%9F'%2C'15%E5%88%86%E9%92%9F'%2C'30%E5%88%86%E9%92%9F'%2C'1%E5%B0%8F%E6%97%B6'%2C'%E6%97%A5'%2C'%E6%9C%88'%2C'%E5%B9%B4'%2C'%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5'%5D%0A%20%20%7D%2C%0A%20%20yAxis%3A%20%7B%0A%20%20%20%20type%3A'category'%2C%0A%20%20%20%20name%3A'%E7%A9%BA%E9%97%B4%E7%BB%B4%E5%BA%A6'%2C%0A%20%20%20%20data%3A%5B'%E8%BD%A6%E7%AB%99'%2C'%E6%96%AD%E9%9D%A2'%2C'OD%E7%BB%84%E5%90%88'%2C'%E7%BA%BF%E8%B7%AF'%2C'%E7%BA%BF%E7%BD%91'%5D%0A%20%20%7D%2C%0A%20%20series%3A%20%5B%0A%20%20%20%20%7B%0A%20%20%20%20%20%20%0A%20%20%20%20%20%20name%3A'%E6%8C%87%E6%A0%87'%2C%0A%20%20%20%20%20%20data%3A%20%5B1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%2C1%5D%2C%0A%20%20%20%20%20%20type%3A%20%22line%22%2C%0A%20%20%20%20%20%20smooth%3A%20true%0A%20%20%20%20%7D%0A%20%20%5D%0A%7D%0A" title="%E6%8C%87%E6%A0%87%E8%8C%83%E5%9B%B4%E7%A4%BA%E6%84%8F" type="js"></ECharts>]]></content:encoded>
     </item>
     <item>
       <title>我的电脑</title>
