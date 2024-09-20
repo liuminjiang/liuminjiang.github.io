@@ -4,11 +4,11 @@ home: true
 layout: Blog
 icon: home
 bgImage: http://tc.seoipo.com/home-bg-1.jpg
-title: 跳跃花园
+title: 超原子发动机
 #heroImage: /logo.svg
-heroText: 跳跃花园
+heroText: 超原子发动机
 heroFullScreen: false
-tagline: experience more
+tagline: let's jump
 #projects:
 #  - icon: project
 #    name: 项目名称
